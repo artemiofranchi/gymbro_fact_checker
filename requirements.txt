@@ -1,0 +1,18 @@
+# core
+pydantic>=2.5
+openai>=1.40
+requests>=2.31
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn>=0.29
+numpy>=1.26
+# ingest
+youtube-transcript-api>=1.0
+yt-dlp>=2024.8.6
+# claims (Artem)
+tavily-python>=0.5
+# form (Tema)
+opencv-python>=4.9
+mediapipe>=0.10.14
+# dev
+pytest>=8

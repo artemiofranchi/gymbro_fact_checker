@@ -1,0 +1,4 @@
+video_url,t_start,t_end,exercise_id,claim_text,claim_verdict,notes
+,,,,"Doing crunches burns belly fat (spot reduction)",not_supported,"example - verify; spot-reduction meta-analyses"
+,,,,"You must eat protein within 30 minutes after training or you lose gains",not_supported,"example - verify; protein-timing meta-analysis (Schoenfeld 2013)"
+,,,,"Light weights for high reps build similar muscle to heavy weights if sets go close to failure",supported,"example - verify; Schoenfeld 2017 meta-analysis"
